@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Creating ordered list
+1 one thing
+  1a second onething
+
+* unordered list
+**End**
